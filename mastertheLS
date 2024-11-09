@@ -1,0 +1,1 @@
+ls -At -I '.*' --indicator-style=slash | paste -sd,
